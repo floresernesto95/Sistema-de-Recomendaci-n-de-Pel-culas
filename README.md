@@ -4,6 +4,8 @@
 
 Este proyecto implementa un avanzado sistema de recomendación de películas, combinando técnicas de análisis de datos, procesamiento de lenguaje natural y desarrollo web. El sistema ofrece recomendaciones personalizadas basadas en la similitud de contenido entre películas, proporcionando una experiencia de usuario intuitiva y visualmente atractiva.
 
+https://github.com/user-attachments/assets/fa912048-6fde-45bc-be31-0d40e30b4ab3
+
 ## Características Principales
 
 - **Análisis de Datos Robusto**: Utiliza un conjunto de datos de más de 4,800 películas, incluyendo información detallada sobre presupuestos, ingresos, géneros y elenco.
